@@ -1,6 +1,6 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
-# NAME:
-# REGISTER NUMBER:
+# NAME: GANESH.G
+# REGISTER NUMBER: 212223230059
 # AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -92,5 +92,5 @@ endmodule
 ![image](https://github.com/ganesh10082006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151981672/1490f6a4-fea4-48e8-b998-dc38b6307f0c)
 
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
